@@ -1,6 +1,6 @@
 # 🧠 NexusIntel — AI-Powered Market Impact Intelligence Platform
 
-> Real-time AI-powered platform that continuously analyzes worldwide news and determines which stocks, sectors, and markets may be positively or negatively impacted — with explainable reasoning.
+> Real-time AI-powered platform that continuously analyzes worldwide news and determines which stocks, sectors, and markets may be positively or negatively impacted  with explainable reasoning.
 
 ![Platform Type](https://img.shields.io/badge/Platform-Market%20Intelligence-blue)
 ![AI Powered](https://img.shields.io/badge/AI-Powered-purple)
@@ -216,6 +216,4 @@ This project was built for academic purposes to demonstrate:
 
 This project is for academic and educational purposes.
 
----
 
-Built with ❤️ using Next.js, Framer Motion, and AI
