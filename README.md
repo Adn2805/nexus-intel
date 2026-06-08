@@ -1,4 +1,4 @@
-# 🧠 NexusIntel — AI-Powered Market Impact Intelligence Platform
+#  NexusIntel — AI-Powered Market Impact Intelligence Platform
 
 > Real-time AI-powered platform that continuously analyzes worldwide news and determines which stocks, sectors, and markets may be positively or negatively impacted  with explainable reasoning.
 
